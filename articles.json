@@ -6,7 +6,10 @@
     "author": "Votre nom",
     "footer": "Tous droits réservés.",
     "pages": [
-      { "slug": "a-propos", "title": "À propos" }
+      {
+        "slug": "a-propos",
+        "title": "À propos"
+      }
     ]
   },
   "articles": [
@@ -18,6 +21,14 @@
       "excerpt": "Un article d’exemple, à supprimer dès que vous avez compris le principe.",
       "cover": "images/abstrait.png",
       "minutes": 2
+    },
+    {
+      "file": "2026-10-29-bonjour-a-tous-et-a-toutes.md",
+      "title": "Bonjour à tous et à toutes",
+      "date": "2026-10-29",
+      "category": "Essais",
+      "excerpt": "« Le droit d’avoir des droits »[^1] permet-il de définir la citoyenneté de l’Union ? En définissant ainsi la nationalité, Hannah Arendt vise, plus largement, les communautés organisées. De cette perspective, la citoyenneté de…",
+      "minutes": 4
     },
     {
       "file": "2026-10-21-lire-lentement.md",
