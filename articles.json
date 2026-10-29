@@ -1,0 +1,50 @@
+{
+  "site": {
+    "title": "Le Carnet",
+    "tagline": "Textes, notes et lectures — publiés au fil de l’eau.",
+    "description": "Un carnet en ligne : articles, notes et lectures.",
+    "author": "Votre nom",
+    "footer": "Tous droits réservés.",
+    "pages": [
+      { "slug": "a-propos", "title": "À propos" }
+    ]
+  },
+  "articles": [
+    {
+      "file": "2026-10-29-bienvenue-mode-d-emploi.md",
+      "title": "Bienvenue : comment publier un article",
+      "subtitle": "Un article d’exemple, à supprimer dès que vous avez compris le principe.",
+      "date": "2026-10-29",
+      "excerpt": "Un article d’exemple, à supprimer dès que vous avez compris le principe.",
+      "cover": "images/abstrait.png",
+      "minutes": 2
+    },
+    {
+      "file": "2026-10-21-lire-lentement.md",
+      "title": "Lire lentement",
+      "subtitle": "Éloge d’une pratique qui ne promet aucun gain de temps.",
+      "date": "2026-10-21",
+      "category": "Essais",
+      "excerpt": "Il y a des textes que l’on parcourt et d’autres que l’on habite. La différence tient moins à leur longueur qu’à la manière dont nous acceptons, ou non, de ralentir.",
+      "minutes": 1
+    },
+    {
+      "file": "2026-10-12-une-note-breve.md",
+      "title": "Une note brève",
+      "date": "2026-10-12",
+      "category": "Notes",
+      "excerpt": "Certaines idées n’ont pas besoin d’un article entier. Elles tiennent en quelques lignes, et c’est très bien ainsi : la forme courte oblige à choisir, à renoncer, à garder l’essentiel.",
+      "minutes": 1
+    },
+    {
+      "file": "2026-09-18-ecrire-pour-etre-lu.md",
+      "title": "Écrire pour être lu",
+      "subtitle": "Penser à un lecteur précis plutôt qu’à une foule.",
+      "date": "2026-09-18",
+      "category": "Essais",
+      "excerpt": "On écrit rarement pour tout le monde. Même les textes les plus largement diffusés ont d’abord été adressés à quelqu’un : un collègue, une étudiante, un ami éloigné.",
+      "cover": "images/lecture.jpg",
+      "minutes": 1
+    }
+  ]
+}
